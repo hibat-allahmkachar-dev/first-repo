@@ -1,2 +1,84 @@
-﻿# first-repo
+# 🤝 Travailler comme un Pro – Collaboration IT & Workflow d’Équipe
 
+> Une initiation aux bonnes pratiques de collaboration en IT avec Git et GitHub.
+
+---
+
+## 📋 Table des Matières
+
+- [À Propos](#-à-propos)
+- [Technologies Utilisées](#-technologies-utilisées)
+- [Contenu du Workshop](#-contenu-du-workshop)
+- [Utilisation](#-utilisation)
+- [Roadmap](#-roadmap)
+- [Contribution](#-contribution)
+
+---
+
+## 🚀 À Propos
+
+Ce workshop, intitulé **« Travailler comme un Pro : Collaboration IT & Workflow d’Équipe (Git/GitHub) »**, s’est déroulé le **samedi 18/04/2026 à 13h30**.
+
+L’objectif était de nous initier aux bonnes pratiques de collaboration dans un environnement IT moderne 💻.
+
+On a appris comment les développeurs travaillent en équipe en utilisant **Git** et **GitHub**, ainsi que les workflows professionnels utilisés en entreprise.
+
+🎯 Public cible : Débutants en informatique et étudiants souhaitant apprendre le travail en équipe.
+
+---
+
+## 🛠 Technologies Utilisées
+
+Les outils présentés pendant le workshop :
+
+- 🔧 Git (gestion de versions)
+- 🐙 GitHub (plateforme de collaboration)
+- 💻 VS Code (éditeur de code)
+
+---
+
+## 📚 Contenu du Workshop
+
+Voici les principaux concepts abordés :
+
+- 📌 Introduction à Git et GitHub  
+- 📂 Initialisation d’un projet avec Git  
+- ➕ Ajouter des fichiers (`git add`)  
+- 💾 Faire des commits (`git commit`)  
+- 🔄 Comprendre les branches  
+- 🚀 Push vers GitHub  
+- 🤝 Collaboration en équipe  
+- 🔁 Introduction au GitHub Flow  
+
+💡 Une partie pratique a été réalisée pour appliquer ces notions.
+
+---
+
+## 🖥 Utilisation
+
+Ce workshop permet de :
+
+- Comprendre comment travailler en équipe en informatique  
+- Apprendre à utiliser Git et GitHub efficacement  
+- Se préparer aux projets réels et professionnels  
+
+---
+
+## 📍 Roadmap
+
+- [x] Workshop 1 : Collaboration IT & Git/GitHub ✅  
+- [ ] Workshop 2 : Pensée algorithmique   
+
+---
+
+## 🤝 Contribution
+
+Le travail collaboratif suit le **GitHub Flow** :
+
+1. Créer une branche 🔀  
+2. Modifier le code ✏️  
+3. Faire un commit 💾  
+4. Push vers GitHub 🚀  
+5. Créer une Pull Request 🔁  
+
+---
